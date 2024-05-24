@@ -1,0 +1,107 @@
+
+    [
+        {
+            "domain": "techsupport-corp.com",
+            "tld": ".com",
+            "emails" : [
+                "nelipak.security.team"
+            ],
+            "keys": [
+                {
+
+                }
+            ],
+            "subdomains": [
+                {
+                    "subdomain": "updates",
+                    "keys": [
+                        {
+                            "key": "67a7b7ddd3959ad5",
+                            "l": 11,
+                            "test": false,
+                            "ssl": true,
+                            "Nelipak": false,
+                            "click": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "domain": "micrasoft-office365",
+            "tld": ".com",
+            "keys": [
+
+            ],
+            "subdomains": [
+                {
+                    "subdomain": "www",
+                    "keys": [
+                        {
+                            "key": "a8764900322d1a31",
+                            "l": 41,
+                            "test": false,
+                            "ssl": true,
+                            "Nelipak": false,
+                            "click": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "domain": "sharepoint-docshare",
+            "tld": ".com",
+            "keys": [
+                {
+                    "key": "a8764900322d1a31",
+                    "l": 36,
+                    "test": true,
+                    "ssl": true,
+                    "Nelipak": false,
+                    "click": true
+                }
+            ],
+            "subdomains": [
+                {
+                    "subdomain": "www",
+                    "keys": [
+                        {
+                            "key": "4ec8837879a67cd3",
+                            "l": 41,
+                            "test": false,
+                            "ssl": true,
+                            "Nelipak": true,
+                            "click": false
+                        },
+                        {
+                            "key": "c0b22aeb70f85b86",
+                            "l": 25,
+                            "test": false,
+                            "ssl": true,
+                            "Nelipak": false,
+                            "click": true
+                        },
+                        {
+                            "key": "2131017128d5e117",
+                            "l": 40,
+                            "test": true,
+                            "ssl": true,
+                            "Nelipak": false,
+                            "click": true
+                        },
+                        {
+                            "key": "a38a296418fc635c",
+                            "l": 55,
+                            "test": false,
+                            "ssl": true,
+                            "Nelipak": false,
+                            "click": true
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ]
+    
